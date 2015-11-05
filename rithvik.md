@@ -22,6 +22,6 @@ To learn more about markdown click [here][5]
 
 [1]: http://posterous.com/help/markdown
 [2]: https://github.com/derobins/wmd
-[3]: http://posterous.com
+[3]: http://posterous.com/help/markdown
 [4]: http://placehold.it/350x150
 [5]: http://daringfireball.net/projects/markdown/
