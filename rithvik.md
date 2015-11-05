@@ -1,6 +1,6 @@
 #Hi#
 
-This is a [Markdown][1] live editor built using [WMD][2] and other open source tools. I use it to write entries for my [posterous][3] blog and other places where Markdown is needed.
+This is a [Markdown][1] live editor built using [WMD][2] and other open source tools. I use it to write entries for my [posterous][3] blog and other places where Markdown is needed will be needed.
 
 ##Usage##
 
@@ -12,7 +12,7 @@ When you press the *copy markdown* button you'll get the markdown markup wrapped
 ![alt text][4]
 
 ###Writting code ###
-
+###not writing any code###
     #!javascript
     function hi(){
         alert('hi!');
